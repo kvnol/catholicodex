@@ -1,0 +1,151 @@
+{
+  "codex": [
+    {
+      "info": [
+        {
+          "title": "Código do Direito Canónico",
+          "version": "4.0",
+          "lang": "pt",
+          "copyright": "Conferência Episcopal Portuguesa, Lisboa, 1983",
+          "ISBN": "978-972-39-0098-9"
+        }
+      ],
+      "books": [
+        {
+          "index": 1,
+          "name": "Das normas gerais",
+          "canon": [
+            {
+              "index": 1,
+              "content": "Os cânones deste Código dizem respeito unicamente à Igreja latina."
+            },
+            {
+              "index": 2,
+              "content": "O Código geralmente não determina os ritos a observar na celebração das acções litúrgicas; pelo que as leis litúrgicas actualmente em vigor mantêm a sua validade, a não ser que alguma delas seja contrária aos cânones deste Código."
+            },
+            {
+              "index": 3,
+              "content": "Os cânones do Código não ab-rogam nem derrogam as convenções celebradas pela Sé Apostólica com os Estados ou outras sociedades políticas, pelo que elas permanecem em vigor, não obstante as prescrições contrárias deste Código."
+            },
+            {
+              "index": 4,
+              "content": "Os direitos adquiridos, e bem assim os privilégios até ao presente concedidos pela Sé Apostólica a pessoas, quer físicas quer jurídicas, que estão em uso e não foram revogados, continuam inalterados, a menos que sejam expressamente revogados pelos cânones deste Código."
+            },
+            {
+              "index": 5,
+              "content": [
+                "Os costumes, quer universais quer particulares, actualmente em vigor contra os preceitos destes cânones que são reprovados pelos próprios cânones deste Código ficam inteiramente suprimidos, e não se permita a sua revivescência; os restantes tenham-se também por suprimidos, a não ser que expressamente se determine outra coisa no Código ou sejam centenários ou imemoriais, os quais podem tolerar-se se, a juízo do Ordinário, segundo as circunstâncias dos lugares e das pessoas, não puderem ser suprimidos.",
+                "Conservam-se os costumes para além da lei, actualmente em vigor, quer sejam universais quer particulares."
+              ]
+            },
+            {
+              "index": 6,
+              "content": [
+                "Com a entrada em vigor deste Código, são ab-rogados: 1.° o Código de Direito Canónico promulgado no ano de 1917; 2.° as outras leis, quer universais quer particulares, contrárias às prescrições deste Código, a não ser que acerca das particulares se determine outra coisa; 3.° quaisquer leis penais, quer universais quer particulares, dimanadas da Sé Apostólica, a não ser que sejam recebidas neste Código; 4.° as outras leis disciplinares universais respeitantes a matéria integralmente ordenada neste Código.",
+                "Os cânones deste Código, na medida em que reproduzem o direito antigo, devem entender-se tendo em consideração também a tradição canónica."
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Das leis eclesiásticas",
+              "content": "A lei é instituída quando se promulga."
+            },
+            {
+              "index": 8,
+              "title": "Das leis eclesiásticas",
+              "content": [
+                "As leis eclesiásticas universais promulgam-se pela publicação no boletim oficial Acta Apostolicae Sedis, a não ser que, em casos particulares, tenha sido prescrita outra forma de promulgação; e só entram em vigor três meses após o dia indicado no número dos Acta, a não ser que pela natureza da matéria obriguem imediatamente, ou na própria lei se determine especial e expressamente uma vacância mais breve ou mais longa.",
+                "As leis particulares promulgam-se pelo modo determinado pelo legislador e começam a obrigar um mês após a data da promulgação, a não ser que na própria lei se estabeleça outro prazo."
+              ]
+            },
+            {
+              "index": 9,
+              "title": "Das leis eclesiásticas",
+              "content": "As leis referem-se ao futuro e não ao passado, a não ser que nelas se disponha expressamente acerca de coisas passadas."
+            },
+            {
+              "index": 10,
+              "title": "Das leis eclesiásticas",
+              "content": "Apenas se devem considerar irritantes ou inabilitantes as leis em que se estabelece expressamente que o acto é nulo ou a pessoa inábil."
+            },
+            {
+              "index": 11,
+              "title": "Das leis eclesiásticas",
+              "content": "Estão obrigados às leis meramente eclesiásticas os baptizados na Igreja católica ou nela recebidos, que gozem de suficiente uso da razão, e, a não ser que outra coisa expressamente se estabeleça no direito, tenham completado sete anos de idade."
+            },
+            {
+              "index": 12,
+              "title": "Das leis eclesiásticas",
+              "content": [
+                "Às leis universais estão obrigados em qualquer parte do mundo todos aqueles para quem elas foram feitas.",
+                "Das leis universais que não vigoram em determinado território estão isentos todos os que na ocasião se encontram nesse território.",
+                "Às leis feitas para determinado território estão sujeitos aqueles a quem elas se destinam e ali têm domicílio ou quase-domicílio e simultaneamente ali se encontram, sem prejuízo do prescrito no cân. 13."
+              ]
+            },
+            {
+              "index": 13,
+              "title": "Das leis eclesiásticas",
+              "content": [
+                "As leis particulares não se presumem pessoais, mas territoriais, a não ser que conste outra coisa.",
+                "Os peregrinos não estão sujeitos: 1.° às leis particulares do seu território enquanto dele estão ausentes, a não ser que a sua transgressão cause prejuízo no próprio território, ou sejam leis pessoais; 2.° nem às leis do território em que se encontram, exceptuadas as que tutelam a ordem pública, ou determinam a solenidade dos actos, ou se referem a coisas imóveis situadas nesse território.",
+                "Os vagos estão sujeitos às leis tanto universais como particulares vigentes no lugar em que se encontram."
+              ]
+            },
+            {
+              "index": 14,
+              "title": "Das leis eclesiásticas",
+              "content": "As leis, mesmo as irritantes e inabilitantes, não obrigam em caso de dúvida de direito; em caso de dúvida de facto, os Ordinários podem dispensar delas, contanto que, se se tratar de dispensa reservada, esta costume ser concedida pela autoridade à qual está reservada."
+            },
+            {
+              "index": 15,
+              "title": "Das leis eclesiásticas",
+              "content": [
+                "A ignorância ou o erro acerca das leis irritantes ou inabilitantes não impede o efeito das mesmas, a não ser que expressamente se determine outra coisa.",
+                "Não se presume a ignorância ou o erro acerca da lei ou da pena, nem acerca de um facto próprio ou de facto alheio notório; mas presume-se acerca de facto alheio não notório, até que se prove o contrário."
+              ]
+            },
+            {
+              "index": 16,
+              "title": "Das leis eclesiásticas",
+              "content": [
+                "Interpreta autenticamente as leis o legislador e aquele a quem este confiou o poder de as interpretar autenticamente.",
+                "A interpretação autêntica dada em forma de lei tem o mesmo valor que a própria lei e deve ser promulgada; se apenas esclarecer as palavras da lei de si certas, tem valor retroactivo; se restringir, ampliar ou explicar a lei duvidosa, não se retrotrai.",
+                "A interpretação em forma de sentença judicial ou de acto administrativo num caso peculiar não tem força de lei, e só obriga as pessoas e afecta as coisas para as quais foi dada."
+              ]
+            },
+            {
+              "index": 17,
+              "title": "Das leis eclesiásticas",
+              "content": "As leis eclesiásticas devem entender-se segundo o significado próprio das palavras considerado no texto e no contexto; se aquele permanecer duvidoso e obscuro, recorrer-se-á aos lugares paralelos, se os houver, ao fim e às circunstâncias da lei e à mente do legislador."
+            },
+            {
+              "index": 18,
+              "title": "Das leis eclesiásticas",
+              "content": "São de interpretação estrita as leis que estabelecem alguma pena, coarctam o livre exercício dos direitos, ou contêm excepção à lei."
+            },
+            {
+              "index": 19,
+              "title": "Das leis eclesiásticas",
+              "content": "Se, acerca de algum ponto, faltar preceito expresso da lei, quer universal quer particular, ou costume, a causa, a não ser que seja penal, dirimir-se-á atendendo às leis formuladas para os casos semelhantes, aos princípios gerais do direito aplicados com a equidade canónica, à jurisprudência e praxe da Cúria Romana, e à opinião comum e constante dos doutores."
+            },
+            {
+              "index": 20,
+              "title": "Das leis eclesiásticas",
+              "content": "A lei posterior ab-roga a anterior ou derroga-a, se assim o determinar expressamente, ou lhe for directamente contrária, ou ordenar integralmente a matéria da lei anterior; mas a lei universal não derroga o direito particular ou especial, a não ser que outra coisa expressamente se determine no direito."
+            },
+            {
+              "index": 21,
+              "title": "Das leis eclesiásticas",
+              "content": "Em caso de dúvida não se presume a revogação de uma lei preexistente, mas as leis posteriores devem cotejar-se com as anteriores e, quanto possível, conciliar-se com elas."
+            },
+            {
+              "index": 22,
+              "title": "Das leis eclesiásticas",
+              "content": "As leis civis para que remete o direito da Igreja, observem-se no direito canónico com os mesmos efeitos, desde que não sejam contrárias ao direito divino e a não ser que outra coisa se determine no direito canónico."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
