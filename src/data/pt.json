@@ -10,212 +10,342 @@
           "ISBN": "978-972-39-0098-9"
         }
       ],
-      "books": [
+      "canons": [
         {
           "index": 1,
-          "name": "Das normas gerais",
-          "canon": [
-            {
-              "index": 1,
-              "content": "Os cânones deste Código dizem respeito unicamente à Igreja latina."
-            },
-            {
-              "index": 2,
-              "content": "O Código geralmente não determina os ritos a observar na celebração das acções litúrgicas; pelo que as leis litúrgicas actualmente em vigor mantêm a sua validade, a não ser que alguma delas seja contrária aos cânones deste Código."
-            },
-            {
-              "index": 3,
-              "content": "Os cânones do Código não ab-rogam nem derrogam as convenções celebradas pela Sé Apostólica com os Estados ou outras sociedades políticas, pelo que elas permanecem em vigor, não obstante as prescrições contrárias deste Código."
-            },
-            {
-              "index": 4,
-              "content": "Os direitos adquiridos, e bem assim os privilégios até ao presente concedidos pela Sé Apostólica a pessoas, quer físicas quer jurídicas, que estão em uso e não foram revogados, continuam inalterados, a menos que sejam expressamente revogados pelos cânones deste Código."
-            },
-            {
-              "index": 5,
-              "content": [
-                "Os costumes, quer universais quer particulares, actualmente em vigor contra os preceitos destes cânones que são reprovados pelos próprios cânones deste Código ficam inteiramente suprimidos, e não se permita a sua revivescência; os restantes tenham-se também por suprimidos, a não ser que expressamente se determine outra coisa no Código ou sejam centenários ou imemoriais, os quais podem tolerar-se se, a juízo do Ordinário, segundo as circunstâncias dos lugares e das pessoas, não puderem ser suprimidos.",
-                "Conservam-se os costumes para além da lei, actualmente em vigor, quer sejam universais quer particulares."
-              ]
-            },
-            {
-              "index": 6,
-              "content": [
-                "Com a entrada em vigor deste Código, são ab-rogados: 1.° o Código de Direito Canónico promulgado no ano de 1917; 2.° as outras leis, quer universais quer particulares, contrárias às prescrições deste Código, a não ser que acerca das particulares se determine outra coisa; 3.° quaisquer leis penais, quer universais quer particulares, dimanadas da Sé Apostólica, a não ser que sejam recebidas neste Código; 4.° as outras leis disciplinares universais respeitantes a matéria integralmente ordenada neste Código.",
-                "Os cânones deste Código, na medida em que reproduzem o direito antigo, devem entender-se tendo em consideração também a tradição canónica."
-              ]
-            },
-            {
-              "index": 7,
-              "title": "Das leis eclesiásticas",
-              "content": "A lei é instituída quando se promulga."
-            },
-            {
-              "index": 8,
-              "title": "Das leis eclesiásticas",
-              "content": [
-                "As leis eclesiásticas universais promulgam-se pela publicação no boletim oficial Acta Apostolicae Sedis, a não ser que, em casos particulares, tenha sido prescrita outra forma de promulgação; e só entram em vigor três meses após o dia indicado no número dos Acta, a não ser que pela natureza da matéria obriguem imediatamente, ou na própria lei se determine especial e expressamente uma vacância mais breve ou mais longa.",
-                "As leis particulares promulgam-se pelo modo determinado pelo legislador e começam a obrigar um mês após a data da promulgação, a não ser que na própria lei se estabeleça outro prazo."
-              ]
-            },
-            {
-              "index": 9,
-              "title": "Das leis eclesiásticas",
-              "content": "As leis referem-se ao futuro e não ao passado, a não ser que nelas se disponha expressamente acerca de coisas passadas."
-            },
-            {
-              "index": 10,
-              "title": "Das leis eclesiásticas",
-              "content": "Apenas se devem considerar irritantes ou inabilitantes as leis em que se estabelece expressamente que o acto é nulo ou a pessoa inábil."
-            },
-            {
-              "index": 11,
-              "title": "Das leis eclesiásticas",
-              "content": "Estão obrigados às leis meramente eclesiásticas os baptizados na Igreja católica ou nela recebidos, que gozem de suficiente uso da razão, e, a não ser que outra coisa expressamente se estabeleça no direito, tenham completado sete anos de idade."
-            },
-            {
-              "index": 12,
-              "title": "Das leis eclesiásticas",
-              "content": [
-                "Às leis universais estão obrigados em qualquer parte do mundo todos aqueles para quem elas foram feitas.",
-                "Das leis universais que não vigoram em determinado território estão isentos todos os que na ocasião se encontram nesse território.",
-                "Às leis feitas para determinado território estão sujeitos aqueles a quem elas se destinam e ali têm domicílio ou quase-domicílio e simultaneamente ali se encontram, sem prejuízo do prescrito no cân. 13."
-              ]
-            },
-            {
-              "index": 13,
-              "title": "Das leis eclesiásticas",
-              "content": [
-                "As leis particulares não se presumem pessoais, mas territoriais, a não ser que conste outra coisa.",
-                "Os peregrinos não estão sujeitos: 1.° às leis particulares do seu território enquanto dele estão ausentes, a não ser que a sua transgressão cause prejuízo no próprio território, ou sejam leis pessoais; 2.° nem às leis do território em que se encontram, exceptuadas as que tutelam a ordem pública, ou determinam a solenidade dos actos, ou se referem a coisas imóveis situadas nesse território.",
-                "Os vagos estão sujeitos às leis tanto universais como particulares vigentes no lugar em que se encontram."
-              ]
-            },
-            {
-              "index": 14,
-              "title": "Das leis eclesiásticas",
-              "content": "As leis, mesmo as irritantes e inabilitantes, não obrigam em caso de dúvida de direito; em caso de dúvida de facto, os Ordinários podem dispensar delas, contanto que, se se tratar de dispensa reservada, esta costume ser concedida pela autoridade à qual está reservada."
-            },
-            {
-              "index": 15,
-              "title": "Das leis eclesiásticas",
-              "content": [
-                "A ignorância ou o erro acerca das leis irritantes ou inabilitantes não impede o efeito das mesmas, a não ser que expressamente se determine outra coisa.",
-                "Não se presume a ignorância ou o erro acerca da lei ou da pena, nem acerca de um facto próprio ou de facto alheio notório; mas presume-se acerca de facto alheio não notório, até que se prove o contrário."
-              ]
-            },
-            {
-              "index": 16,
-              "title": "Das leis eclesiásticas",
-              "content": [
-                "Interpreta autenticamente as leis o legislador e aquele a quem este confiou o poder de as interpretar autenticamente.",
-                "A interpretação autêntica dada em forma de lei tem o mesmo valor que a própria lei e deve ser promulgada; se apenas esclarecer as palavras da lei de si certas, tem valor retroactivo; se restringir, ampliar ou explicar a lei duvidosa, não se retrotrai.",
-                "A interpretação em forma de sentença judicial ou de acto administrativo num caso peculiar não tem força de lei, e só obriga as pessoas e afecta as coisas para as quais foi dada."
-              ]
-            },
-            {
-              "index": 17,
-              "title": "Das leis eclesiásticas",
-              "content": "As leis eclesiásticas devem entender-se segundo o significado próprio das palavras considerado no texto e no contexto; se aquele permanecer duvidoso e obscuro, recorrer-se-á aos lugares paralelos, se os houver, ao fim e às circunstâncias da lei e à mente do legislador."
-            },
-            {
-              "index": 18,
-              "title": "Das leis eclesiásticas",
-              "content": "São de interpretação estrita as leis que estabelecem alguma pena, coarctam o livre exercício dos direitos, ou contêm excepção à lei."
-            },
-            {
-              "index": 19,
-              "title": "Das leis eclesiásticas",
-              "content": "Se, acerca de algum ponto, faltar preceito expresso da lei, quer universal quer particular, ou costume, a causa, a não ser que seja penal, dirimir-se-á atendendo às leis formuladas para os casos semelhantes, aos princípios gerais do direito aplicados com a equidade canónica, à jurisprudência e praxe da Cúria Romana, e à opinião comum e constante dos doutores."
-            },
-            {
-              "index": 20,
-              "title": "Das leis eclesiásticas",
-              "content": "A lei posterior ab-roga a anterior ou derroga-a, se assim o determinar expressamente, ou lhe for directamente contrária, ou ordenar integralmente a matéria da lei anterior; mas a lei universal não derroga o direito particular ou especial, a não ser que outra coisa expressamente se determine no direito."
-            },
-            {
-              "index": 21,
-              "title": "Das leis eclesiásticas",
-              "content": "Em caso de dúvida não se presume a revogação de uma lei preexistente, mas as leis posteriores devem cotejar-se com as anteriores e, quanto possível, conciliar-se com elas."
-            },
-            {
-              "index": 22,
-              "title": "Das leis eclesiásticas",
-              "content": "As leis civis para que remete o direito da Igreja, observem-se no direito canónico com os mesmos efeitos, desde que não sejam contrárias ao direito divino e a não ser que outra coisa se determine no direito canónico."
-            },
-            {
-              "index": 23,
-              "title": "Do costume",
-              "content": "Só tem força de lei o costume introduzido pela comunidade de fiéis que tiver sido aprovado pelo legislador, segundo as normas dos cânones seguintes."
-            },
-            {
-              "index": 24,
-              "title": "Do costume",
-              "content": [
-                "Não pode obter força de lei nenhum costume que seja contrário ao direito divino.",
-                "Também não pode obter força de lei o costume contra ou para além do direito canónico, se não for razoável; o costume expressamente reprovado no direito não é razoável."
-              ]
-            },
-            {
-              "index": 25,
-              "title": "Do costume",
-              "content": "Nenhum costume obtém força de lei a não ser que tenha sido observado por uma comunidade capaz, ao menos, de receber leis com a intenção de introduzir direito."
-            },
-            {
-              "index": 26,
-              "title": "Do costume",
-              "content": "A não ser que tenha sido especialmente aprovado pelo legislador competente, o costume contrário ao direito canónico em vigor ou para além da lei canónica só obtém força de lei, se tiver sido legitimamente observado durante trinta anos contínuos e completos; mas contra a lei canónica que contenha uma cláusula a proibir costumes futuros, só pode prevalecer o costume centenário ou imemorial."
-            },
-            {
-              "index": 27,
-              "title": "Do costume",
-              "content": "O costume é o melhor intérprete da lei."
-            },
-            {
-              "index": 28,
-              "title": "Do costume",
-              "content": "Salvo o disposto no cân. 5, o costume quer contra a lei quer para além dela, revoga-se por costume contrário ou por lei; porém, a não ser que deles faça menção expressa, a lei não revoga os costumes centenários ou imemoriais, nem a lei universal os costumes particulares."
-            },
-            {
-              "index": 29,
-              "title": "Dos decretos gerais e das instruções",
-              "content": "Os decretos gerais, com que o legislador competente estabelece prescrições comuns para uma comunidade capaz de receber leis, são leis propriamente ditas e regem-se pelas prescrições dos cânones relativos às leis."
-            },
-            {
-              "index": 30,
-              "title": "Dos decretos gerais e das instruções",
-              "content": "Quem tem somente poder executivo não pode fazer decretos gerais, a que se refere o cân. 29, a não ser que, em casos particulares, segundo o direito tal faculdade lhe tenha sido expressamente concedida pelo legislador competente e observadas as condições estabelecidas no acto da concessão."
-            },
-            {
-              "index": 31,
-              "title": "Dos decretos gerais e das instruções",
-              "content": [
-                "Dentro dos limites da sua competência, quem tem poder executivo pode fazer decretos gerais executórios, com os quais se determina mais concretamente o modo a observar na aplicação da lei, ou se urge a observância das leis.",
-                "No concernente à promulgação e vacância dos decretos referidos no § 1, observem-se as prescrições do cân. 8."
-              ]
-            },
-            {
-              "index": 32,
-              "title": "Dos decretos gerais e das instruções",
-              "content": "Os decretos gerais executórios obrigam aqueles que estão sujeitos às leis cujo modo de aplicação esses decretos determinam ou cuja observância urgem."
-            },
-            {
-              "index": 33,
-              "title": "Dos decretos gerais e das instruções",
-              "content": [
-                "Os decretos gerais executórios, ainda que publicados em directórios ou documentos de outro modo designados, não derrogam as leis, e carecem de todo o valor os seus preceitos que sejam contrários às leis.",
-                "Os mesmos decretos deixam de ter valor por revogação explícita ou implícita feita pela autoridade competente, e ainda por cessação da lei para cuja execução foram emitidos; mas não cessam por ter terminado o direito de quem os emitiu, a não ser que se estabeleça expressamente o contrário."
-              ]
-            },
-            {
-              "index": 34,
-              "title": "Dos decretos gerais e das instruções",
-              "content": [
-                "As instruções, que explicitam os preceitos legais e desenvolvem e determinam o modo como eles se devem observar, são feitas para uso daqueles a quem pertence dar execução às leis e obrigam-nos nessa execução; emite-as legitimamente, dentro dos limites da sua competência, quem tem poder executivo.",
-                "As ordenações das instruções não derrogam as leis, e se algumas delas não se puderem harmonizar com as prescrições das leis, carecem de todo o valor.",
-                "As instruções deixam de ter valor não só pela revogação explícita ou implícita da autoridade competente, que as emitiu, ou do seu superior, mas ainda pela cessação da lei para cuja declaração ou execução foram emitidas."
-              ]
-            }
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "content": "Os cânones deste Código dizem respeito unicamente à Igreja latina."
+        },
+        {
+          "index": 2,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "content": "O Código geralmente não determina os ritos a observar na celebração das acções litúrgicas; pelo que as leis litúrgicas actualmente em vigor mantêm a sua validade, a não ser que alguma delas seja contrária aos cânones deste Código."
+        },
+        {
+          "index": 3,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "content": "Os cânones do Código não ab-rogam nem derrogam as convenções celebradas pela Sé Apostólica com os Estados ou outras sociedades políticas, pelo que elas permanecem em vigor, não obstante as prescrições contrárias deste Código."
+        },
+        {
+          "index": 4,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "content": "Os direitos adquiridos, e bem assim os privilégios até ao presente concedidos pela Sé Apostólica a pessoas, quer físicas quer jurídicas, que estão em uso e não foram revogados, continuam inalterados, a menos que sejam expressamente revogados pelos cânones deste Código."
+        },
+        {
+          "index": 5,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "content": [
+            "Os costumes, quer universais quer particulares, actualmente em vigor contra os preceitos destes cânones que são reprovados pelos próprios cânones deste Código ficam inteiramente suprimidos, e não se permita a sua revivescência; os restantes tenham-se também por suprimidos, a não ser que expressamente se determine outra coisa no Código ou sejam centenários ou imemoriais, os quais podem tolerar-se se, a juízo do Ordinário, segundo as circunstâncias dos lugares e das pessoas, não puderem ser suprimidos.",
+            "Conservam-se os costumes para além da lei, actualmente em vigor, quer sejam universais quer particulares."
+          ]
+        },
+        {
+          "index": 6,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "content": [
+            "Com a entrada em vigor deste Código, são ab-rogados: 1.° o Código de Direito Canónico promulgado no ano de 1917; 2.° as outras leis, quer universais quer particulares, contrárias às prescrições deste Código, a não ser que acerca das particulares se determine outra coisa; 3.° quaisquer leis penais, quer universais quer particulares, dimanadas da Sé Apostólica, a não ser que sejam recebidas neste Código; 4.° as outras leis disciplinares universais respeitantes a matéria integralmente ordenada neste Código.",
+            "Os cânones deste Código, na medida em que reproduzem o direito antigo, devem entender-se tendo em consideração também a tradição canónica."
+          ]
+        },
+        {
+          "index": 7,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "A lei é instituída quando se promulga."
+        },
+        {
+          "index": 8,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": [
+            "As leis eclesiásticas universais promulgam-se pela publicação no boletim oficial Acta Apostolicae Sedis, a não ser que, em casos particulares, tenha sido prescrita outra forma de promulgação; e só entram em vigor três meses após o dia indicado no número dos Acta, a não ser que pela natureza da matéria obriguem imediatamente, ou na própria lei se determine especial e expressamente uma vacância mais breve ou mais longa.",
+            "As leis particulares promulgam-se pelo modo determinado pelo legislador e começam a obrigar um mês após a data da promulgação, a não ser que na própria lei se estabeleça outro prazo."
+          ]
+        },
+        {
+          "index": 9,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "As leis referem-se ao futuro e não ao passado, a não ser que nelas se disponha expressamente acerca de coisas passadas."
+        },
+        {
+          "index": 10,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "Apenas se devem considerar irritantes ou inabilitantes as leis em que se estabelece expressamente que o acto é nulo ou a pessoa inábil."
+        },
+        {
+          "index": 11,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "Estão obrigados às leis meramente eclesiásticas os baptizados na Igreja católica ou nela recebidos, que gozem de suficiente uso da razão, e, a não ser que outra coisa expressamente se estabeleça no direito, tenham completado sete anos de idade."
+        },
+        {
+          "index": 12,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": [
+            "Às leis universais estão obrigados em qualquer parte do mundo todos aqueles para quem elas foram feitas.",
+            "Das leis universais que não vigoram em determinado território estão isentos todos os que na ocasião se encontram nesse território.",
+            "Às leis feitas para determinado território estão sujeitos aqueles a quem elas se destinam e ali têm domicílio ou quase-domicílio e simultaneamente ali se encontram, sem prejuízo do prescrito no cân. 13."
+          ]
+        },
+        {
+          "index": 13,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": [
+            "As leis particulares não se presumem pessoais, mas territoriais, a não ser que conste outra coisa.",
+            "Os peregrinos não estão sujeitos: 1.° às leis particulares do seu território enquanto dele estão ausentes, a não ser que a sua transgressão cause prejuízo no próprio território, ou sejam leis pessoais; 2.° nem às leis do território em que se encontram, exceptuadas as que tutelam a ordem pública, ou determinam a solenidade dos actos, ou se referem a coisas imóveis situadas nesse território.",
+            "Os vagos estão sujeitos às leis tanto universais como particulares vigentes no lugar em que se encontram."
+          ]
+        },
+        {
+          "index": 14,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "As leis, mesmo as irritantes e inabilitantes, não obrigam em caso de dúvida de direito; em caso de dúvida de facto, os Ordinários podem dispensar delas, contanto que, se se tratar de dispensa reservada, esta costume ser concedida pela autoridade à qual está reservada."
+        },
+        {
+          "index": 15,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": [
+            "A ignorância ou o erro acerca das leis irritantes ou inabilitantes não impede o efeito das mesmas, a não ser que expressamente se determine outra coisa.",
+            "Não se presume a ignorância ou o erro acerca da lei ou da pena, nem acerca de um facto próprio ou de facto alheio notório; mas presume-se acerca de facto alheio não notório, até que se prove o contrário."
+          ]
+        },
+        {
+          "index": 16,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": [
+            "Interpreta autenticamente as leis o legislador e aquele a quem este confiou o poder de as interpretar autenticamente.",
+            "A interpretação autêntica dada em forma de lei tem o mesmo valor que a própria lei e deve ser promulgada; se apenas esclarecer as palavras da lei de si certas, tem valor retroactivo; se restringir, ampliar ou explicar a lei duvidosa, não se retrotrai.",
+            "A interpretação em forma de sentença judicial ou de acto administrativo num caso peculiar não tem força de lei, e só obriga as pessoas e afecta as coisas para as quais foi dada."
+          ]
+        },
+        {
+          "index": 17,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "As leis eclesiásticas devem entender-se segundo o significado próprio das palavras considerado no texto e no contexto; se aquele permanecer duvidoso e obscuro, recorrer-se-á aos lugares paralelos, se os houver, ao fim e às circunstâncias da lei e à mente do legislador."
+        },
+        {
+          "index": 18,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "São de interpretação estrita as leis que estabelecem alguma pena, coarctam o livre exercício dos direitos, ou contêm excepção à lei."
+        },
+        {
+          "index": 19,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "Se, acerca de algum ponto, faltar preceito expresso da lei, quer universal quer particular, ou costume, a causa, a não ser que seja penal, dirimir-se-á atendendo às leis formuladas para os casos semelhantes, aos princípios gerais do direito aplicados com a equidade canónica, à jurisprudência e praxe da Cúria Romana, e à opinião comum e constante dos doutores."
+        },
+        {
+          "index": 20,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "A lei posterior ab-roga a anterior ou derroga-a, se assim o determinar expressamente, ou lhe for directamente contrária, ou ordenar integralmente a matéria da lei anterior; mas a lei universal não derroga o direito particular ou especial, a não ser que outra coisa expressamente se determine no direito."
+        },
+        {
+          "index": 21,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "Em caso de dúvida não se presume a revogação de uma lei preexistente, mas as leis posteriores devem cotejar-se com as anteriores e, quanto possível, conciliar-se com elas."
+        },
+        {
+          "index": 22,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Das leis eclesiásticas",
+          "content": "As leis civis para que remete o direito da Igreja, observem-se no direito canónico com os mesmos efeitos, desde que não sejam contrárias ao direito divino e a não ser que outra coisa se determine no direito canónico."
+        },
+        {
+          "index": 23,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Do costume",
+          "content": "Só tem força de lei o costume introduzido pela comunidade de fiéis que tiver sido aprovado pelo legislador, segundo as normas dos cânones seguintes."
+        },
+        {
+          "index": 24,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Do costume",
+          "content": [
+            "Não pode obter força de lei nenhum costume que seja contrário ao direito divino.",
+            "Também não pode obter força de lei o costume contra ou para além do direito canónico, se não for razoável; o costume expressamente reprovado no direito não é razoável."
+          ]
+        },
+        {
+          "index": 25,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Do costume",
+          "content": "Nenhum costume obtém força de lei a não ser que tenha sido observado por uma comunidade capaz, ao menos, de receber leis com a intenção de introduzir direito."
+        },
+        {
+          "index": 26,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Do costume",
+          "content": "A não ser que tenha sido especialmente aprovado pelo legislador competente, o costume contrário ao direito canónico em vigor ou para além da lei canónica só obtém força de lei, se tiver sido legitimamente observado durante trinta anos contínuos e completos; mas contra a lei canónica que contenha uma cláusula a proibir costumes futuros, só pode prevalecer o costume centenário ou imemorial."
+        },
+        {
+          "index": 27,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Do costume",
+          "content": "O costume é o melhor intérprete da lei."
+        },
+        {
+          "index": 28,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Do costume",
+          "content": "Salvo o disposto no cân. 5, o costume quer contra a lei quer para além dela, revoga-se por costume contrário ou por lei; porém, a não ser que deles faça menção expressa, a lei não revoga os costumes centenários ou imemoriais, nem a lei universal os costumes particulares."
+        },
+        {
+          "index": 29,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Dos decretos gerais e das instruções",
+          "content": "Os decretos gerais, com que o legislador competente estabelece prescrições comuns para uma comunidade capaz de receber leis, são leis propriamente ditas e regem-se pelas prescrições dos cânones relativos às leis."
+        },
+        {
+          "index": 30,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Dos decretos gerais e das instruções",
+          "content": "Quem tem somente poder executivo não pode fazer decretos gerais, a que se refere o cân. 29, a não ser que, em casos particulares, segundo o direito tal faculdade lhe tenha sido expressamente concedida pelo legislador competente e observadas as condições estabelecidas no acto da concessão."
+        },
+        {
+          "index": 31,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Dos decretos gerais e das instruções",
+          "content": [
+            "Dentro dos limites da sua competência, quem tem poder executivo pode fazer decretos gerais executórios, com os quais se determina mais concretamente o modo a observar na aplicação da lei, ou se urge a observância das leis.",
+            "No concernente à promulgação e vacância dos decretos referidos no § 1, observem-se as prescrições do cân. 8."
+          ]
+        },
+        {
+          "index": 32,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Dos decretos gerais e das instruções",
+          "content": "Os decretos gerais executórios obrigam aqueles que estão sujeitos às leis cujo modo de aplicação esses decretos determinam ou cuja observância urgem."
+        },
+        {
+          "index": 33,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Dos decretos gerais e das instruções",
+          "content": [
+            "Os decretos gerais executórios, ainda que publicados em directórios ou documentos de outro modo designados, não derrogam as leis, e carecem de todo o valor os seus preceitos que sejam contrários às leis.",
+            "Os mesmos decretos deixam de ter valor por revogação explícita ou implícita feita pela autoridade competente, e ainda por cessação da lei para cuja execução foram emitidos; mas não cessam por ter terminado o direito de quem os emitiu, a não ser que se estabeleça expressamente o contrário."
+          ]
+        },
+        {
+          "index": 34,
+          "book": {
+            "index": 1,
+            "title": "Das normas gerais"
+          },
+          "title": "Dos decretos gerais e das instruções",
+          "content": [
+            "As instruções, que explicitam os preceitos legais e desenvolvem e determinam o modo como eles se devem observar, são feitas para uso daqueles a quem pertence dar execução às leis e obrigam-nos nessa execução; emite-as legitimamente, dentro dos limites da sua competência, quem tem poder executivo.",
+            "As ordenações das instruções não derrogam as leis, e se algumas delas não se puderem harmonizar com as prescrições das leis, carecem de todo o valor.",
+            "As instruções deixam de ter valor não só pela revogação explícita ou implícita da autoridade competente, que as emitiu, ou do seu superior, mas ainda pela cessação da lei para cuja declaração ou execução foram emitidas."
           ]
         }
       ]
